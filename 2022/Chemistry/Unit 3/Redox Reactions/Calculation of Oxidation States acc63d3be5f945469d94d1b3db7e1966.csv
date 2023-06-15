@@ -1,0 +1,7 @@
+﻿Elements,Always,Except
+Hydrogen,+1,"0 - Bonded to itself or on its own
+-1 - Bonded to a metal"
+OxyGen,-2,"0 - Bonded to itself or on its own
+-1 - Hydrogen Peroxide
+-2 - in F2O"
+Fluorine,-1,0 - Bonded to itself or on its own
